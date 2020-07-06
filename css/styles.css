@@ -1,0 +1,45 @@
+/* ---------------------Elements--------------------- */
+body{
+  background-color: #c2f0fc;
+  color: #0fabbc;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ---------------------Classes--------------------- */
+
+.intro-background{
+  width: 100%;
+  height: 100%;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.relative{
+  position: relative;
+}
+
+.top-intro{
+  top: 30%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 20rem;
+  text-align: center;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.h1-top{
+  font-family: 'Great Vibes', cursive;
+  font-size: 4vw;
+}
+
+.h2-top{
+  font-size: 2.25vw;
+}
+
+/* ---------------------IDs--------------------- */
